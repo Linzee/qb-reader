@@ -9,8 +9,6 @@ with open('example.qb', 'rb') as file:
 	qb = Qb()
 	qb.load(file)
 
-	qb.
-
 	layer = qb.matrixList[0]
 
 	layer.pos // Position of voxel matrix: (0, 0, 0)
