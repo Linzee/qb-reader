@@ -1,5 +1,5 @@
 # QB reader
-Small Python library for reading and writing (Qubicle Binary (.qb))[http://minddesk.com/learn/article.php?id=22] files.
+Small Python library for reading and writing [Qubicle Binary (.qb)](http://minddesk.com/learn/article.php?id=22) files.
 
 ### Reading
 ```
